@@ -1,2 +1,3 @@
 # brushflow
-使用Netflix测速网站FAST.COM刷服务器流量
+使用权威测速网站服务刷流量
+有Ookla，Netflix
