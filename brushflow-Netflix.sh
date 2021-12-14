@@ -5,7 +5,6 @@ fi
 echo "while [ 1 ]" >> _ins.sh
 echo "do" >> _ins.sh
 echo "./fast$1 -d" >> _ins.sh
-echo "sleep 2" >> _ins.sh
 echo "done" >> _ins.sh
 for i in `seq 1 4`
 do
